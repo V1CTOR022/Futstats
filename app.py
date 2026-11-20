@@ -180,4 +180,4 @@ else:
 
 
 st.divider()
-st.caption("Desenvolvido por Victor Yuri")
+st.caption("Desenvolvido por Victor Yuri Vargas Koss")
