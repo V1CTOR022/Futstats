@@ -59,6 +59,6 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).
 
 ## 📬 Contato
 
-Desenvolvido por **Victor Yuri**
+Desenvolvido por **Victor Yuri Vargas Koss**
 
 LinkedIn: https://www.linkedin.com/in/victor-yuri-65147136a/
